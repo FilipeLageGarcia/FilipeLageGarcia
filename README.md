@@ -8,6 +8,6 @@ Para uma visão geral dos meus projetos, visite a minha página: https://filipel
 
 Encontre-me nas plataformas:
 
-<img src="imagens/LinkedIn.png" width="20"/> https://www.linkedin.com/in/filipelagegarcia/
+<img src="./imagens/LinkedIn.png" width="20"/> https://www.linkedin.com/in/filipelagegarcia/
 
 📫 filipelagegarcia@gmail.com
