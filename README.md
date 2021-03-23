@@ -1,19 +1,13 @@
 Oi, eu sou Filipe 😊
 
-Eu sou engenheiro mecânico, com cerca de 3 a 4 anos de expericência em sistemas embarcados. Estou agora ingressando na área de desenvolvimento em .NET e Java. 
+Eu sou engenheiro mecânico, com cerca de 3 a 4 anos de experiência em sistemas embarcados. Estou agora ingressando na área de desenvolvimento em .NET e Java. 
 
 Para uma visão geral dos meus projetos, visite a minha página: https://filipelagegarcia.github.io/.
 
+![Followers](https://img.shields.io/github/followers/FilipeLageGarcia?style=plastic)
+
 Encontre-me nas plataformas:
 
+<img src="imagens/LinkedIn.png" width="20"/> https://www.linkedin.com/in/filipelagegarcia/
 
-
-
-
-
-
-- 👋 Oi, eu sou Filipe Garcia.
-- 👀 Estou interessado na área de programação.
-- 🌱 Estou atualmente aprendendo .NET e Java
-- 💞️ Estou procurando colaborar em projetos de programação.
-- 📫 Pode me encontrar através do e-mail: filipelagegarcia@gmail.com
+📫 filipelagegarcia@gmail.com
